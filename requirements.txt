@@ -1,7 +1,5 @@
-# --- Adjusted RL Stability Baseline (Python 3.9 compatible) ---
 numpy==1.19.5
-# The last version of standalone Keras that plays nice with TF 2.5
-keras==2.4.3
 tensorflow==2.5.0
+keras==2.4.3
 gym==0.17.3
 pyglet==1.5.0
