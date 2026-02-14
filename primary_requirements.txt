@@ -1,0 +1,5 @@
+# --- Blind 2026 Modernization ---
+numpy
+keras
+tensorflow
+gym

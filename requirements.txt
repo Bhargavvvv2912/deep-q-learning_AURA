@@ -1,4 +1,8 @@
-numpy
-keras
-gym
-tensorflow
+# --- Legacy RL Stability Baseline (2018-2019 era) ---
+numpy==1.19.5
+# Standalone Keras before it was fully absorbed/changed by TF 2.x
+keras==2.3.1
+tensorflow==2.4.1
+gym==0.17.3
+# Required for Gym environments
+pyglet==1.5.0
