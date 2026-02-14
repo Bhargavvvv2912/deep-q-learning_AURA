@@ -1,8 +1,7 @@
-# --- Legacy RL Stability Baseline (2018-2019 era) ---
+# --- Adjusted RL Stability Baseline (Python 3.9 compatible) ---
 numpy==1.19.5
-# Standalone Keras before it was fully absorbed/changed by TF 2.x
-keras==2.3.1
-tensorflow==2.4.1
+# The last version of standalone Keras that plays nice with TF 2.5
+keras==2.4.3
+tensorflow==2.5.0
 gym==0.17.3
-# Required for Gym environments
 pyglet==1.5.0
